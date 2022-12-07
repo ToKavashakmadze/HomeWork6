@@ -1,0 +1,8 @@
+C:\Users\Iterra-LTD\source\repos\HomeWork6 vs\bin\Debug\HomeWork6 vs.exe.config
+C:\Users\Iterra-LTD\source\repos\HomeWork6 vs\bin\Debug\HomeWork6 vs.exe
+C:\Users\Iterra-LTD\source\repos\HomeWork6 vs\bin\Debug\HomeWork6 vs.pdb
+C:\Users\Iterra-LTD\source\repos\HomeWork6 vs\obj\Debug\HomeWork6 vs.csproj.AssemblyReference.cache
+C:\Users\Iterra-LTD\source\repos\HomeWork6 vs\obj\Debug\HomeWork6 vs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iterra-LTD\source\repos\HomeWork6 vs\obj\Debug\HomeWork6 vs.csproj.CoreCompileInputs.cache
+C:\Users\Iterra-LTD\source\repos\HomeWork6 vs\obj\Debug\HomeWork6 vs.exe
+C:\Users\Iterra-LTD\source\repos\HomeWork6 vs\obj\Debug\HomeWork6 vs.pdb
